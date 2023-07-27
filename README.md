@@ -2,4 +2,4 @@
 
 Visit Project on :
 
-# https://daniel-kurzer.github.io/Parallax-Portfolio-Website/
+# <a href="https://daniel-kurzer.github.io/Parallax-Portfolio-Website/" target="blank"></a>
